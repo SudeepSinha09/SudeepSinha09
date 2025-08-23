@@ -21,27 +21,11 @@ I enjoy working across backend systems, DevOps pipelines, and AI-powered applica
 
 ## 🚀 Featured Projects  
 
-### 🛒 [Grocery Store Management System](https://github.com/SudeepSinha09/Grocery-Store)  
-A management system for handling grocery store operations with Python & SQL.  
-![GitHub stars](https://img.shields.io/github/stars/SudeepSinha09/Grocery-Store?style=social)
-![GitHub forks](https://img.shields.io/github/forks/SudeepSinha09/Grocery-Store?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/SudeepSinha09/Grocery-Store?color=blue)
+- 🛒 [Grocery Store Management System](https://github.com/SudeepSinha09/Grocery-Store) — Python + SQL-based store management  
+- 🎟️ [Ticket Show Booking App](https://github.com/SudeepSinha09/Ticket-Show-Booking) — Flask & SQLite ticket booking system  
+- 📊 [Student Enrollment Prediction](https://github.com/SudeepSinha09/Student-Enrollment-Prediction) — Machine learning classification project  
 
----
-
-### 🎟️ [Ticket Show Booking App](https://github.com/SudeepSinha09/Ticket-Show-Booking)  
-A ticket booking system built with Flask, SQLite, and REST APIs.  
-![GitHub stars](https://img.shields.io/github/stars/SudeepSinha09/Ticket-Show-Booking?style=social)
-![GitHub forks](https://img.shields.io/github/forks/SudeepSinha09/Ticket-Show-Booking?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/SudeepSinha09/Ticket-Show-Booking?color=blue)
-
----
-
-### 📊 [Student Enrollment Status Prediction](https://github.com/SudeepSinha09/Student-Enrollment-Prediction)  
-Machine learning project using scikit-learn for multi-class classification.  
-![GitHub stars](https://img.shields.io/github/stars/SudeepSinha09/Student-Enrollment-Prediction?style=social)
-![GitHub forks](https://img.shields.io/github/forks/SudeepSinha09/Student-Enrollment-Prediction?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/SudeepSinha09/Student-Enrollment-Prediction?color=blue)
+➡️ **Explore all my repositories [here](https://github.com/SudeepSinha09?tab=repositories)**  
 
 ---
 
